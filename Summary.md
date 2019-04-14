@@ -36,6 +36,7 @@
 
 * Arrays
     * [Harlowe](arrays/harlowe/harlowe_arrays.md)
+	* [Harlowe (v3.0.1 or later)](arrays/harlowe_3/harlowe_arrays.md)
     * [SugarCube](arrays/sugarcube/sugarcube_arrays.md)
     * [Snowman](arrays/snowman/snowman_arrays.md)
 
