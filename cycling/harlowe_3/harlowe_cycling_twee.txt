@@ -1,0 +1,14 @@
+:: StoryTitle
+Cycling Choices in Harlowe (v3.0.1 or later)
+
+:: Start
+{
+(set: $choices to (array: "First", "Second", "Third"))
+(set: $selected to $choices's 1st)
+
+Click options to cycle: (cycling-link: bind $selected, ...$choices)
+}
+[[Submit|Results]]
+
+:: Results
+Selected choice: $selected
