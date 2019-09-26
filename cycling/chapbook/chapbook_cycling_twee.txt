@@ -1,0 +1,10 @@
+:: StoryTitle
+Cycling Choices in Chapbook
+
+:: Start
+Click options to cycle: {cycling link for: 'cyclingResult', choices: ["First", "Second", "Third"]}
+
+[[Submit|Results]]
+
+:: Results
+{cyclingResult}
