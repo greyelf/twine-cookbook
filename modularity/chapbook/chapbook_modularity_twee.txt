@@ -1,0 +1,15 @@
+:: StoryTitle
+Modularity in Chapbook
+
+:: Start
+lineOne: "Give us a verse"
+lineTwo: "Drop some knowledge"
+--
+{embed passage: "showLineOne"}
+{embed passage: "showLineTwo"}
+
+:: showLineOne
+{lineOne}
+
+:: showLineTwo
+{lineTwo}

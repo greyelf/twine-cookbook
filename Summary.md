@@ -210,6 +210,7 @@
 	* [Harlowe](modularity/harlowe/harlowe_modularity.md)
 	* [SugarCube](modularity/sugarcube/sugarcube_modularity.md)
 	* [Snowman](modularity/snowman/snowman_modularity.md)
+	* [Chapbook](modularity/chapbook/chapbook_modularity.md)
 
 # Moving through a 'dungeon'
 
