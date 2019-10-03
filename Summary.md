@@ -84,6 +84,7 @@
 	* [Harlowe](delayedtext/harlowe/harlowe_delayedtext.md)
 	* [SugarCube](delayedtext/sugarcube/sugarcube_delayedtext.md)
 	* [Snowman](delayedtext/snowman/snowman_delayedtext.md)
+	* [Chapbook](delayedtext/chapbook/chapbook_delayedtext.md)
 
 # Deleting Variables
 
