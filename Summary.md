@@ -132,6 +132,7 @@
 	* [Harlowe](headersandfooters/harlowe/harlowe_headersandfooters.md)
 	* [SugarCube](headersandfooters/sugarcube/sugarcube_headersandfooters.md)
 	* [Snowman](headersandfooters/snowman/snowman_headersandfooters.md)
+	* [Chapbook](headersandfooters/chapbook/chapbook_headersandfooters.md)
 
 # Hidden Link
 

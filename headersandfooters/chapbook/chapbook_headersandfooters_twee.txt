@@ -1,0 +1,8 @@
+:: StoryTitle
+Chapbook: Headers and Footers
+
+:: Start
+config.header.center: "This is the center header!"
+config.footer.center: "This is the center footer!"
+--
+This is content between the header and the footer.
