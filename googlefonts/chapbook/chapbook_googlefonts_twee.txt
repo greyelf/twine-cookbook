@@ -1,0 +1,12 @@
+:: StoryTitle
+Chapbook: Google Fonts
+
+:: StoryStylesheet [stylesheet]
+.message {
+	font-family: 'Roboto', sans-serif; 
+}
+
+:: Start
+config.style.googleFont: '<link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">'
+--
+<div class="message">This text is styled using a Google Font</div>

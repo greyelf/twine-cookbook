@@ -123,6 +123,7 @@
 	* [Harlowe](googlefonts/harlowe/harlowe_googlefonts.md)
 	* [SugarCube](googlefonts/sugarcube/sugarcube_googlefonts.md)
 	* [Snowman](googlefonts/snowman/snowman_googlefonts.md)
+	* [Chapbook](googlefonts/chapbook/chapbook_googlefonts.md)
 	* [Sugarcane (1.4.2)](googlefonts/sugarcane/sugarcane_googlefonts.md)
 
 # Headers and Footers
